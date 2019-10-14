@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget
 
@@ -20,7 +19,7 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     ex_window = MyApp()
     sys.exit(app.exec())
-=======
+
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget
 
@@ -42,4 +41,3 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     ex_window = MyApp()
     sys.exit(app.exec())
->>>>>>> 40dba21a340598117f263c9a82de31d364836cdb
